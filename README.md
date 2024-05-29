@@ -29,6 +29,7 @@ https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_des
 After regularization, r2 values of train and test are as below
 - Ridge (Train : 0.88 Test:0.85)
 - Lasso (Train : 0.87 Test:0.85)
+
 The above r2 value indicates that overfitting value has been resolved.
 
 Among all above mentioned features, following are the top most significant features to predict Sales Price
